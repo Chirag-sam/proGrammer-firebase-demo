@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572398583070",
+    "firebase_url": "https://firebse-demo-3c287.firebaseio.com",
+    "project_id": "firebse-demo-3c287",
+    "storage_bucket": "firebse-demo-3c287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572398583070:android:1197a0da8de8ea4b",
+        "android_client_info": {
+          "package_name": "com.chirag.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572398583070-fp17jgqnps9r26liv5ebt4afa27a8vva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chirag.firebasedemo",
+            "certificate_hash": "9ae2a8e2b99f40bc1696bf19356d0779ffe158b7"
+          }
+        },
+        {
+          "client_id": "572398583070-0orgccdldm496v35j55m38omt27p7m7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnM6ycArrbK7gwkNx2vUlVwUFaCIR_l_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572398583070-0orgccdldm496v35j55m38omt27p7m7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
